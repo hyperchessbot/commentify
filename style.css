@@ -1,5 +1,6 @@
 body {
- background-image: url("meta.png"); 
+ background: url("meta.png"); 
+ background-size: 100px;
 }
 
 .text {
